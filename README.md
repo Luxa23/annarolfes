@@ -1,4 +1,8 @@
-### Welcome to my profile
+### Welcome, name is Anna 👋
+
+> Done is better than perfect
+
+
 
 My name is Anna and I am about to learn coding.
 
