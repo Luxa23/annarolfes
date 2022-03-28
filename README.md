@@ -4,7 +4,7 @@
 
 ---
 
-You can finde me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+You can finde me on [![my profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-rolfes-70a31a43/)
 
 ---
 
