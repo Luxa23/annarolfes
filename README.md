@@ -1,6 +1,6 @@
 ### Welcome, name is Anna 👋
 
-> Done is better than perfect
+> Why is a raven like a writing desk?
 
 ---
 
