@@ -1,4 +1,4 @@
-### Welcome, name is Anna 👋
+### Welcome, my name is Anna 👋
 
 > Why is a raven like a writing desk?
 
