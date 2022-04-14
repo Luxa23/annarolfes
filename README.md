@@ -18,9 +18,6 @@
 
 ##
 
-[![pinterest link](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.de/snowflakeams/_saved/)
-
-
 
 
 
