@@ -1,7 +1,5 @@
 ### Welcome, my name is Anna 👋
 
-##
-
 🌱 I’m currently learning to code.
 
 ##
