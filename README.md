@@ -1,7 +1,5 @@
 ### Welcome, my name is Anna 👋
 
-> Why is a raven like a writing desk?
-
 ##
 
 🌱 I’m currently learning to code.
@@ -25,6 +23,9 @@
 
 
 <!--
+
+> Why is a raven like a writing desk?
+
 **annarolfes/annarolfes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
